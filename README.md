@@ -1,6 +1,15 @@
 # Tweet-Prejudice-Detection
 
 <br>
+predict.py is the Python replacement code that does the same job as glmNetPred.R
+Used the python package glmnet_py as described on https://github.com/bbalasub1/glmnet_python
+
+It is available only for Ubuntu + Python 3.5 as of now.
+
+This was done as the R code was giving some convergence errors for the same models.
+</br>
+
+<br>
 FeatureVectorNER.csv is the feature file with NER features.
 Here are the modifications made to this file:
 <ol>
