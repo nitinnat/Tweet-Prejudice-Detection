@@ -24,3 +24,10 @@ Here are the modifications made to this file:
 </ol>
 
 </br>
+
+<br>
+The other files in the format train-Strat-NER-{}.csv or test-Strat-NER-{}.csv
+represent the train and test sets for a particular split for the features with NER.
+
+This is similar in the case for NotNER feature files.
+</br>
